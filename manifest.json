@@ -1,0 +1,13 @@
+{
+  "name": "簡易比色分析｜科展工具",
+  "short_name": "簡易比色",
+  "description": "以手機照片分析樣品與參考區顏色，供科展比較使用。",
+  "lang": "zh-Hant",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f3f7f3",
+  "theme_color": "#176b58",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
